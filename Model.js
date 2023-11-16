@@ -6,7 +6,7 @@ module.exports = class Model {
     this.file = file;
   }
 
-  read() {
-    return this.file;
-  }
+  read() {}
+
+  add() {}
 };

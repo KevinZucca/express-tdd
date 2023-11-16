@@ -11,3 +11,15 @@ test("L'istanza di Model dovrebbe richiedere il nome del file json da usare in f
   const newModel = () => new model();
   expect(newModel).toThrowError("Deve essere inserito un file");
 });
+
+test("Model dovrebbe contenere il metodo read", () => {
+  const newModel = new model(jsonElement);
+  expect(newModel.read).toBeDefined();
+  expect(typeof newModel.read).toBe("function");
+});
+
+test("Model dovrebbe contenere il metodo add", () => {
+  const newModel = new model(jsonElement);
+  expect(newModel.add).toBeDefined();
+  expect(typeof newModel.add).toBe("function");
+});
