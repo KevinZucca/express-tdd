@@ -1,10 +1,10 @@
 const express = require("express");
 const { test, expect } = require("@jest/globals");
 const createSlug = require("./utilities/createSlug");
+const list = require("./posts.json");
 
 test("La funzione dovrebbe restituire una stringa", () => {
   const title = "Gaming in Realtà Virtuale: Il Futuro del Divertimento";
-  const list = require("./posts.json");
   const result = createSlug(title, list);
 
   expect(typeof result).toBe("string");
