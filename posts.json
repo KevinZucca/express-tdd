@@ -2,6 +2,7 @@
     {
         "id": 1,
         "title": "Top 10 Giochi del 2023",
+        "slug": "top-10-giochi-del-2023",
         "author": "GamerMaster",
         "date": "2023-01-15",
         "content": "Ecco la mia lista dei migliori 10 giochi del 2023. Scopri quali titoli stanno dominando l'anno e quali dovresti assolutamente provare!"
@@ -9,6 +10,7 @@
     {
         "id": 2,
         "title": "Recensione: Cyberpunk 2077",
+        "slug": "recensione-cyberpunk-2077",
         "author": "TechGamer",
         "date": "2023-02-02",
         "content": "Una recensione approfondita di Cyberpunk 2077. Scopri i pregi e i difetti di questo attesissimo gioco open-world ambientato nel futuro distopico."
@@ -16,6 +18,7 @@
     {
         "id": 3,
         "title": "Guida Strategica: Come Dominare in Fortnite",
+        "slug": "",
         "author": "FortnitePro",
         "date": "2023-02-20",
         "content": "Scopri i segreti per diventare un vero professionista in Fortnite. Consigli sulle costruzioni, le armi migliori e le strategie vincenti per la vittoria reale!"
@@ -23,6 +26,7 @@
     {
         "id": 4,
         "title": "Intervista con lo Sviluppatore di Apex Legends",
+        "slug": "",
         "author": "GameInsider",
         "date": "2023-03-10",
         "content": "Abbiamo intervistato il creatore di Apex Legends per saperne di più sul processo di sviluppo, le nuove stagioni e cosa aspettarci per il futuro del gioco."
@@ -30,6 +34,7 @@
     {
         "id": 5,
         "title": "Esplorando il Mondo di Elden Ring",
+        "slug": "",
         "author": "DarkSoulsFan",
         "date": "2023-04-05",
         "content": "Un viaggio nell'immensa terra di Elden Ring. Scopri le creature, le ambientazioni e le sfide che ti attendono in questo attesissimo action-RPG di FromSoftware."
@@ -37,6 +42,7 @@
     {
         "id": 6,
         "title": "Guida alle Prestazioni: Ottimizza il Tuo PC per il Gaming",
+        "slug": "",
         "author": "TechEnthusiast",
         "date": "2023-04-20",
         "content": "Consigli e trucchi per ottimizzare le prestazioni del tuo PC per un'esperienza di gioco senza problemi. Dalle impostazioni grafiche al tweaking hardware, copriremo tutto!"
@@ -44,6 +50,7 @@
     {
         "id": 7,
         "title": "Retrogaming: I Classici Che Non Invecchiano Mai",
+        "slug": "retrogaming-i-classici-che-non-invecchiano-mai",
         "author": "OldSchoolGamer",
         "date": "2023-05-05",
         "content": "Una rassegna dei classici del mondo dei videogiochi che resistono alla prova del tempo. Scopri quali giochi retro sono ancora divertenti da giocare oggi."
@@ -51,6 +58,7 @@
     {
         "id": 8,
         "title": "Recensione Hardware: La Nuova GPU NVIDIA RTX 40 Series",
+        "slug": "",
         "author": "HardwareGeek",
         "date": "2023-06-01",
         "content": "Analisi dettagliata e recensione della più recente serie di schede grafiche NVIDIA. Prestazioni, funzionalità e come si confrontano con le generazioni precedenti."
@@ -58,6 +66,7 @@
     {
         "id": 9,
         "title": "Le Migliori Soundtrack dei Videogiochi di Sempre",
+        "slug": "",
         "author": "MusicGameLover",
         "date": "2023-06-20",
         "content": "Un viaggio attraverso le soundtrack che hanno reso memorabili i nostri momenti di gioco. Dai classici ai titoli moderni, quali colonne sonore meritano di essere ascoltate ancora e ancora?"
@@ -65,6 +74,15 @@
     {
         "id": 10,
         "title": "Gaming in Realtà Virtuale: Il Futuro del Divertimento",
+        "slug": "",
+        "author": "VRExplorer",
+        "date": "2023-07-10",
+        "content": "Esploriamo il mondo della Realtà Virtuale e come sta influenzando il settore del gaming. I migliori titoli VR, le nuove tecnologie e cosa aspettarci nei prossimi anni."
+    },
+    {
+        "id": 11,
+        "title": "Gaming in Realtà Virtuale: Il Futuro del Divertimento",
+        "slug": "",
         "author": "VRExplorer",
         "date": "2023-07-10",
         "content": "Esploriamo il mondo della Realtà Virtuale e come sta influenzando il settore del gaming. I migliori titoli VR, le nuove tecnologie e cosa aspettarci nei prossimi anni."
